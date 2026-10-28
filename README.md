@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-StopForumSpam is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://stopforumspam.com/
+StopForumSpam provides a community‑maintained database of known forum and blog spam sources, including email addresses, IPs, and usernames. It offers free public APIs for checking whether an entity is listed as a spammer, as well as tools for contributors to submit new spam data and download datasets. The service aims to help website operators and developers protect their platforms from spam and abuse.
+
+**Areas:** Company · Spam · Security · API · Community
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://stopforumspam.com/)
+- [Documentation](https://www.stopforumspam.com/usage)
+- [Getting started](https://www.stopforumspam.com/signup)
+- [API reference](https://www.stopforumspam.com/usage)
+- [Sign up](https://www.stopforumspam.com/forum/register.php)
+- [Support](https://www.stopforumspam.com/contact)
+- [Blog](https://blog.stopforumspam.com/)
+- [Privacy policy](https://www.stopforumspam.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/stopforumspam/](https://apis.io/providers/stopforumspam/).
